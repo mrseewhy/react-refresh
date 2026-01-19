@@ -1,0 +1,14 @@
+/* ./src/index.css */
+@import "tailwindcss";
+
+/* #text-bg {
+  background-image: url("./src/assets/react.svg");
+  background-color: @apply bg-gray-900 opacity-25;
+  background-blend-mode: overlay;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+
+} */
+
+/* You can remove all other default CSS if you want to use only Tailwind utilities */
