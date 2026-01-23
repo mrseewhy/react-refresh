@@ -8,6 +8,7 @@ import Change from './components/ImageChange/Change'
 import NewForm from './components/NewForm'
 import Counter from './components/Counter'
 import Users from './components/User/Users'
+import AnotherForm from './components/AnotherForm'
 
 function App() {
 
@@ -39,7 +40,8 @@ function App() {
       {/* <NewForm /> */}
 
       {/* <Counter /> */}
-      <Users />
+      {/* <Users /> */}
+      <AnotherForm />
 
     </>
   )
